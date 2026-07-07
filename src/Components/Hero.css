@@ -1,0 +1,28 @@
+.hero{
+    background-color: white;
+    color:#333;
+    padding: 40px;
+}
+.hero h1{
+    color: #0056b3;
+    font-size: 3rem;
+}
+.hero h2{
+    color:#0056b3;
+}
+.hero p{
+    color: #333;
+    font-size: 18px;
+    max-width: 700px;
+    line-height: 1.6;
+    margin: 20px auto;
+}
+
+
+
+
+
+
+
+
+
