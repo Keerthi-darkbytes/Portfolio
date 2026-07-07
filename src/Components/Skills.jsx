@@ -1,7 +1,7 @@
 import "./Skills.css";
 function Skills(){
     return(
-        <section className="skills">
+        <section className="skills" id="skills">
   <h2>My Skills</h2>
 
   <div className="skills-container">

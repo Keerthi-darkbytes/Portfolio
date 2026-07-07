@@ -1,7 +1,7 @@
 import "./Project.css";
 function Project(){
     return(
-        <section className="projects">
+        <section className="projects" id="project">
             <h2>Projects</h2>
             <h3>Weather App</h3>
             <p>Weather App
